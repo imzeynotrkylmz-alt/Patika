@@ -1,2 +1,0 @@
-# Patika
-HTML-PATİKA
